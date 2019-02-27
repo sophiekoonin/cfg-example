@@ -1,8 +1,8 @@
 # cfg-example
 Write your name below!
-Yusha Wang
-Sophie
 
+Sophie
+Yusha Wang
 Paul
 
 Mel
