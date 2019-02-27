@@ -1,3 +1,8 @@
 # cfg-example
 Write your name below!
-Georgia
+
+Sophie
+
+Paul
+
+Mel
