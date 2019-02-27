@@ -1,3 +1,10 @@
 # cfg-example
 Write your name below!
-Laura
+Yusha Wang
+Sophie
+
+Paul
+
+Mel
+
+Georgia
