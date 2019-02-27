@@ -4,7 +4,6 @@ Write your name below!
 Sophie
 
 Paul
-
 Mel
 Eloise
 Georgia
