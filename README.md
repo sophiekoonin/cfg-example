@@ -10,3 +10,11 @@ Eloise
 Georgia
 
 Sophia
+
+Léa
+
+
+Laura
+Mira
+
+Yusha Wang 
